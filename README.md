@@ -1,2 +1,2 @@
-# OldStuff
-Excercises and tests i have been doing while i tried graphic programming with Dynamo.
+# Old_Stuff
+Excercises and tests i have been doing in in python while i worked with graphic programming using Dynamo.
