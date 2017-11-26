@@ -1,3 +1,4 @@
+# WIP Python file to search words and patterns. Runs with python 2.6, as PyPDF2 is not compatible with newer Python versions.
 
 import os
 import PyPDF2 as runpdf
